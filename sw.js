@@ -5,8 +5,7 @@ const STATIC_ASSETS = [
   './index.html',
   './manifest.json',
   // 如果图标与 index.html 同目录，请添加图标路径
-  './icons/icon-192.png',
-  './icons/icon-512.png'
+  './icon.png',
 ];
 
 // 安装事件：预缓存静态资源
